@@ -1,0 +1,10 @@
+openai
+plotly
+scipy
+scikit-learn
+fastapi
+uvicorn
+gradio
+pymongo
+cohere
+datetime
